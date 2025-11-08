@@ -62,15 +62,15 @@ Utilize os diferentes tipos de seletores e propriedades básicas do CSS.
   - `color: #777777;`
 
 ### 5. Seletores de Elemento - Parágrafos e Divs
-- [ ] Estilizar o elemento `p`:
+- [x] Estilizar o elemento `p`:
   - `font-size: 14px;`
   - `color: #444444;`
   - `text-align: justify;`
 
-- [ ] Estilizar o elemento `div`:
+- [x] Estilizar o elemento `div`:
   - `text-align: left;`
 
-- [ ] Estilizar o elemento `span`:
+- [x] Estilizar o elemento `span`:
   - `color: #0066cc;`
   - `font-size: 14px;`
 
