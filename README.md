@@ -7,10 +7,10 @@ Esta atividade tem como objetivo praticar a aplicação de CSS externo e tem com
 Utilize os diferentes tipos de seletores e propriedades básicas do CSS.
 
 ### Instruções Gerais
-- [ ] Faça um fork desse repositório para o professor poder acompanhar;
-- [ ] No seu repositório da atividade, coloque o link do [vercel](https://vercel.com/) da sua atividade de [introdução a html](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao);
-- [ ] Crie um arquivo CSS externo chamado `pg-pessoal.css` no seu repositório da atividade de [introdução a html](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao);
-- [ ] Vincule o arquivo CSS `pg-pessoal.css` ao `index.html` usando a tag `<link>` no `<head>` no seu repositório da atividade de [introdução a html](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao);
+- [x] Faça um fork desse repositório para o professor poder acompanhar;
+- [x] No seu repositório da atividade, coloque o link do [vercel](https://vercel.com/) da sua atividade de [introdução a html](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao);
+- [x] Crie um arquivo CSS externo chamado `pg-pessoal.css` no seu repositório da atividade de [introdução a html](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao);
+- [x] Vincule o arquivo CSS `pg-pessoal.css` ao `index.html` usando a tag `<link>` no `<head>` no seu repositório da atividade de [introdução a html](https://github.com/tads-webdesign/2025.2-atividade-01-html-introducao);
 - [ ] Complete todas as tarefas abaixo aplicando os estilos especificados
 
 ---
@@ -18,8 +18,8 @@ Utilize os diferentes tipos de seletores e propriedades básicas do CSS.
 ## Checklist de Tarefas
 
 ### 1. Configuração Inicial
-- [ ] Criar o arquivo `pg-pessoal.css` na raiz do projeto
-- [ ] Adicionar a tag `<link rel="stylesheet" href="pg-pessoal.css">` no `<head>` do arquivo `index.html`
+- [x] Criar o arquivo `pg-pessoal.css` na raiz do projeto
+- [x] Adicionar a tag `<link rel="stylesheet" href="pg-pessoal.css">` no `<head>` do arquivo `index.html`
 
 ### 2. Seletor Universal
 - [ ] Aplicar o seletor universal (`*`) para resetar margens e paddings de todos os elementos
