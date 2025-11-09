@@ -101,11 +101,11 @@ Utilize os diferentes tipos de seletores e propriedades básicas do CSS.
 - [x] Utilizar pelo menos 3 tamanhos diferentes usando `font-size`
 
 ### 8. Validação Final
-- [ ] Verificar se o arquivo CSS está corretamente vinculado ao HTML
-- [ ] Abrir o arquivo `index.html` no navegador e confirmar que todos os estilos foram aplicados
-- [ ] Garantir que todas as propriedades CSS foram utilizadas: `color`, `font-size`, e `text-align`
-- [ ] Garantir que todos os tipos de seletores foram utilizados: universal (`*`), de elemento, e de classe (`.`)
-- [ ] Verificar se sua página no [vercel](https://vercel.com) foi atualizada.
+- [x] Verificar se o arquivo CSS está corretamente vinculado ao HTML
+- [x] Abrir o arquivo `index.html` no navegador e confirmar que todos os estilos foram aplicados
+- [x] Garantir que todas as propriedades CSS foram utilizadas: `color`, `font-size`, e `text-align`
+- [x] Garantir que todos os tipos de seletores foram utilizados: universal (`*`), de elemento, e de classe (`.`)
+- [x] Verificar se sua página no [vercel](https://vercel.com) foi atualizada.
 
 ---
 
