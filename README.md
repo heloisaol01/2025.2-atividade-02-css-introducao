@@ -76,21 +76,21 @@ Utilize os diferentes tipos de seletores e propriedades básicas do CSS.
 
 ### 6. Seletores de Classe
 - [x] Adicionar a classe `destaque` a pelo menos 2 elementos `<p>` no HTML
-- [ ] Criar o seletor `.destaque` no CSS com:
+- [x] Criar o seletor `.destaque` no CSS com:
   - `color: #e74c3c;`
   - `font-size: 16px;`
 
 - [x] Adicionar a classe `secao` a todos os elementos `<div>` no HTML
-- [ ] Criar o seletor `.secao` no CSS com:
+- [x] Criar o seletor `.secao` no CSS com:
   - `text-align: center;`
 
 - [x] Adicionar a classe `link-social` aos elementos `<span>` que contêm links (LinkedIn e GitHub)
-- [ ] Criar o seletor `.link-social` no CSS com:
+- [x] Criar o seletor `.link-social` no CSS com:
   - `color: #16a085;`
   - `font-size: 15px;`
 
 - [x] Adicionar a classe `tecnologia` aos elementos `<span>` que contêm nomes de tecnologias
-- [ ] Criar o seletor `.tecnologia` no CSS com:
+- [x] Criar o seletor `.tecnologia` no CSS com:
   - `color: #8e44ad;`
   - `font-size: 14px;`
 
