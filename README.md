@@ -95,10 +95,10 @@ Utilize os diferentes tipos de seletores e propriedades básicas do CSS.
   - `font-size: 14px;`
 
 ### 7. Experimentação e Personalização
-- [ ] Criar mais 2 classes personalizadas de sua escolha e aplicá-las em elementos do HTML, pode ser as tags `div`
-- [ ] Utilizar pelo menos uma propriedade `text-align` diferente (por exemplo: `right`)
-- [ ] Utilizar pelo menos 3 cores diferentes usando `color`
-- [ ] Utilizar pelo menos 3 tamanhos diferentes usando `font-size`
+- [x] Criar mais 2 classes personalizadas de sua escolha e aplicá-las em elementos do HTML, pode ser as tags `div`
+- [x] Utilizar pelo menos uma propriedade `text-align` diferente (por exemplo: `right`)
+- [x] Utilizar pelo menos 3 cores diferentes usando `color`
+- [x] Utilizar pelo menos 3 tamanhos diferentes usando `font-size`
 
 ### 8. Validação Final
 - [ ] Verificar se o arquivo CSS está corretamente vinculado ao HTML
